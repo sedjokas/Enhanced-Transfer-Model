@@ -12,7 +12,7 @@ This project contains the code to train a medical image classification model to 
 - Numpy
 - Matplotlib
 - Scikit-learn
-- 
+  
 # Installation
 1. Clone the repository.
 2. Install the required dependencies by running the following command:
